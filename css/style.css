@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+    color: white;
+}
+
+#container{
+   
+    background-color: aqua;
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    float: right;
+    margin-top: 200px;
+    margin-right: 500px;
+}
+
+body{
+    background-image: url(images/html5-1841458__340.png);
+}
+
+#idFormularza{
+    background-color: aquamarine;
+    border: none;
+    color: white;
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#button{
+    background-color: aqua;
+    border: none;
+    color: white;
+    padding: 15px 115px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
